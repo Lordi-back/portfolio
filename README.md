@@ -20,17 +20,17 @@ C#, .NET, WPF, Python (FastAPI), JavaScript/TypeScript (Next.js), SQL (PostgreSQ
 ### 3. Скаут (автоматизированный поиск)
 **Стек:** Python, API
 **Суть:** Поиск предприятий, анализ, генерация предложений.
-**Ссылка:** [GitHub](ссылка_на_репозиторий)
+**Ссылка:** [GitHub](https://github.com/Lordi-back/Scout)
 
 ### 4. «Умный список» (SaaS)
 **Стек:** Next.js, FastAPI, PostgreSQL, ЮKassa, Telegram Bot
 **Суть:** Семейный сервис покупок с подпиской и оплатой.
-**Ссылка:** [GitHub](ссылка_на_репозиторий)
+**Ссылка:** [GitHub]((https://github.com/Lordi-back/Shopping-List))
 
 ### 5. Сайт для юридических услуг
 **Стек:** Next.js, TypeScript
 **Суть:** Лендинг с прайсом и формой связи.
-**Ссылка:** [GitHub Pages](ссылка)
+**Ссылка:** [GitHub Pages]((https://github.com/Lordi-back/legal-webapp))
 
 ### 6. Распознавание номеров (КПП)
 **Стек:** WPF, Python, OpenCV, Tesseract
