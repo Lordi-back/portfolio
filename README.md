@@ -25,7 +25,7 @@ C#, .NET, WPF, Python (FastAPI), JavaScript/TypeScript (Next.js), SQL (PostgreSQ
 ### 4. «Умный список» (SaaS)
 **Стек:** Next.js, FastAPI, PostgreSQL, ЮKassa, Telegram Bot
 **Суть:** Семейный сервис покупок с подпиской и оплатой.
-**Ссылка:** [GitHub]((https://github.com/Lordi-back/Shopping-List))
+**Ссылка:** [GitHub]([GitHub](https://github.com/Lordi-back/Shopping-List))
 
 ### 5. Сайт для юридических услуг
 **Стек:** Next.js, TypeScript
