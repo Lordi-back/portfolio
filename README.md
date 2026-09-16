@@ -42,10 +42,8 @@ C#, .NET, WPF, Python (FastAPI), JavaScript/TypeScript (Next.js), SQL (PostgreSQ
 **Суть:** Гибридная модель прогнозирования.
 **Результат:** RMSE ↓ 43%, упреждение 5–12 мин.
 
-## 📄 Резюме
-[Ссылка на PDF-резюме](ссылка)
+
 
 ## 📫 Контакты
-- Telegram: @твой_ник
 - Email: 89617151191d@gmail.com
 - GitHub: [Lordi-back](https://github.com/Lordi-back)
